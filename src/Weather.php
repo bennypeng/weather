@@ -36,9 +36,8 @@ class Weather
         $this->guzzleOptions = $options;
     }
 
-    public function getWeather($city, $type = 'base', $format = 'json')
-    {
-        $url = 'https://restapi.amap.com/v3/weather/weatherInfo';
+    public function getWeather($city,$type='base',$format='json')
+    {$url = 'https://restapi.amap.com/v3/weather/weatherInfo';
 
         // 对 $format 和 $type 参数进行检查，不在范围内跑出异常
         if (!\in_array(\strtolower($format), ['xml', 'json'])) {
