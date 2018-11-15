@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c5adb9d-300a-48fe-9f18-88dda420427f" name="Default Changelist" comment="" />
+    <list default="true" id="6c5adb9d-300a-48fe-9f18-88dda420427f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Weather.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Weather.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Weather.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="377">
+              <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
               <folding>
                 <element signature="e#30#52#0#PHP" expanded="true" />
               </folding>
@@ -104,8 +106,8 @@
         <option value="$PROJECT_DIR$/src/Exceptions/Exception.php" />
         <option value="$PROJECT_DIR$/src/Exceptions/HttpException.php" />
         <option value="$PROJECT_DIR$/tests/test.php" />
-        <option value="$PROJECT_DIR$/src/Weather.php" />
         <option value="$PROJECT_DIR$/tests/WeatherTest.php" />
+        <option value="$PROJECT_DIR$/src/Weather.php" />
       </list>
     </option>
   </component>
@@ -127,8 +129,6 @@
       <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
       <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
-      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
-      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
       <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
       <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
@@ -139,7 +139,6 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
       <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
       <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
-      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
       <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
       <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
       <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
@@ -148,9 +147,11 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
       <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
       <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
-      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
@@ -250,12 +251,12 @@
       <option name="presentableId" value="Default" />
       <updated>1542276430269</updated>
       <workItem from="1542276431523" duration="5769000" />
-      <workItem from="1542291838042" duration="3652000" />
+      <workItem from="1542291838042" duration="3659000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9421000" />
+    <option name="totallyTimeSpent" value="9428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -348,8 +349,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Weather.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="377">
+          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
           <folding>
             <element signature="e#30#52#0#PHP" expanded="true" />
           </folding>
