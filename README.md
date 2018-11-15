@@ -3,6 +3,8 @@
 <p align="center"> A Weather SDK.</p>
 
 [![Build Status](https://travis-ci.org/bennypeng/weather.svg?branch=master)](https://travis-ci.org/bennypeng/weather)
+![StyleCI build status](https://github.styleci.io/repos/157741792/shield) 
+
 ## Installing
 
 ```shell
