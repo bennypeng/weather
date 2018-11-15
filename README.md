@@ -2,7 +2,7 @@
 
 <p align="center"> A Weather SDK.</p>
 
-
+[![Build Status](https://travis-ci.org/bennypeng/weather.svg?branch=master)](https://travis-ci.org/bennypeng/weather)
 ## Installing
 
 ```shell
